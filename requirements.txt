@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+gensim
+pickle
+db-sqlite3
+json
